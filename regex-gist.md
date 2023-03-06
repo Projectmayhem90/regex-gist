@@ -5,14 +5,14 @@ Regular expressions, or regex, are a sequence of characters that defines a set o
 The regex we are going over today is, /^#?([a-f0-9]{6}|[a-f0-9]{3})$/i . This is the regex for matching a hex value.
 
 ## Table of Contents
-Anchors
-Quantifiers
-Grouping Constructs
-Bracket Expressions
-Charecter Classes
-OR Operator
-Flags
-Character Escapes
+# Anchors
+# Quantifiers
+# Grouping Constructs
+# Bracket Expressions
+# Charecter Classes
+# OR Operator
+# Flags
+# Character Escapes
 
 ## Anchors
 Anchors are used to specify where in the string the pattern should match, either at the beginning or end of the string or at a word boundary.
