@@ -2,7 +2,11 @@
 Regular expressions, or regex, are a sequence of characters that defines a set of search parameters. They are extremely versatile and customizable, so they are an important tool for any developer to know how to use.
 
 ## Summary
-The regex we are going over today is, /^#?([a-f0-9]{6}|[a-f0-9]{3})$/i . This is the regex for matching a hex value.
+A regex "regular expression" is a sequence of characters that forms a search pattern. It is a powerful tool used in computer programming and text processing for finding and manipulating text strings.
+
+Regex can match complex patterns in text, such as a certain sequence of characters, digits, or special characters. It can also be used to validate input or to search for specific text in a file.
+
+Regex syntax can vary slightly depending on the programming language or tool being used, but the basic concept remains the same. It involves using metacharacters, which have special meaning, to create a pattern that matches the desired text.The regex we are going over today is, /^#?([a-f0-9]{6}|[a-f0-9]{3})$/i . This is the regex for matching a hex value.
 
 ## Table of Contents
 
