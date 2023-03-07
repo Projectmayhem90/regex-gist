@@ -51,4 +51,5 @@ An OR operator, is represented by the pipe symbol "|", it is used to match eithe
 A flag is an optional setting that modifies the behavior of the regex pattern. Flags are added after the closing delimiter of a regex and are represented by letters, such as "i" for case-insensitive matching, "g" for global matching, "m" for multiline matching, etc. In the above Hex value its labeled with "i" at the end of the run. If this wasnt added it would change the hex value.
 
 ## Author
-This was written by JAO https://github.com/Projectmayhem90
+- This was written by JAO https://github.com/Projectmayhem90
+- Actual gist created on githubgist https://gist.github.com/Projectmayhem90/0d818117bf2331bf5ce93b4724c5d2cb
